@@ -1,5 +1,5 @@
 ### (base64) 🔐 a2V5OnNlamFiZW12aW5kbw==
-Desenvolvedor Web na **Sapiens Agro**, atuando da arquitetura, desenvovlimento e segurança para produtos que apoiam decisões no agronegócio. Em paralelo, estou expandindo o foco para **segurança ofensiva**, cursando Cibersegurança, NPP e PE na @DesecSecurity e também como hobby programando microcontroladores.
+Desenvolvedor Web na **Sapiens Agro**, atuando na arquitetura, desenvovlimento e segurança para produtos que apoiam decisões no agronegócio. Em paralelo, estou expandindo o foco para **segurança ofensiva**, cursando Segurança Ofensiva na @IPOG, NPP e PE na @DesecSecurity. Nas horas vagas, estudo e me divirto demais com eletrônica e hardware hacking com até alguns projetos rodando aqui no escritório.
 - Desenvolvedor Web @Sapiens Agro
 - Segurança Cibernética (IPOG) 
 - Sistemas de Informação (UFU)
