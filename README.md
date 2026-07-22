@@ -2,7 +2,7 @@
 Desenvolvedor Web na **Sapiens Agro**, atuando da arquitetura, desenvovlimento e segurança para produtos que apoiam decisões no agronegócio. Em paralelo, estou expandindo o foco para **segurança ofensiva**, cursando Cibersegurança, NPP e PE na @DesecSecurity e também como hobby programando microcontroladores.
 - Desenvolvedor Web @Sapiens Agro
 - Segurança Cibernética (IPOG) 
-- Bacharelando em Sistemas de Informação (UFU)
+- Sistemas de Informação (UFU)
 - 2º lugar — Hackathon Ubyfol
 
 ----
@@ -19,7 +19,7 @@ Desenvolvedor Web na **Sapiens Agro**, atuando da arquitetura, desenvovlimento e
 ### Formação Acadêmica
 
 - **IPOG** — Segurança Cibernética *(2026 – 2028, em andamento)*
-- **UFU** — Bacharelado em Sistemas de Informação *(2024 – 2028, em andamento)*
+- **UFU** — Sistemas de Informação *(2024 – 2028, em andamento)*
 - **Digital House Brasil** — Certified Tech Developer *(2022 – 2023)*
 
 ----
