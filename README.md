@@ -1,9 +1,11 @@
 ### (base64) 🔐 a2V5OnNlamFiZW12aW5kbw==
-Desenvolvedor Web na **Sapiens Agro**, atuando na arquitetura, desenvovlimento e segurança para produtos que apoiam decisões no agronegócio. Em paralelo, estou expandindo o foco para **segurança ofensiva**, cursando Segurança Ofensiva na @IPOG, NPP e PE na @DesecSecurity. Nas horas vagas, estudo e me divirto demais com eletrônica e hardware hacking com até alguns projetos rodando aqui no escritório.
-- Desenvolvedor Web @Sapiens Agro
-- Segurança Cibernética (IPOG) 
-- Sistemas de Informação (UFU)
-- 2º lugar — Hackathon Ubyfol
+Desenvolvedor **Full Stack** na **Sapiens Agro**, agritech de Uberlândia focada em inteligência de fretes e commodities. Desenvolvo de ponta a ponta (front-end, back-end e infraestrutura) em sistemas usados por mais de 1000 usuários ativos em mais de 15 multinacionais do agro.
+Hoje estou levando essa trajetória para a **segurança da informação**, aplicando AppSec no dia a dia do desenvolvimento: SAST, DAST e monitoramento de dependências na esteira de CI/CD, hardening e análise de logs. Estou me aprofundando com a graduação em Segurança Cibernética no IPOG e os cursos NPP e PE da Desec Security. Nas horas vagas, estudo e me divirto demais com eletrônica e hardware.
+
+-  Desenvolvedor Full Stack @Sapiens Agro
+-  AppSec & Desenvolvimento Seguro
+-  Segurança Cibernética (IPOG) · Sistemas de Informação (UFU)
+-  2º lugar — Hackathon Ubyfol
 
 ----
 
@@ -26,6 +28,7 @@ Desenvolvedor Web na **Sapiens Agro**, atuando na arquitetura, desenvovlimento e
 
 | Projeto | Descrição |
 |---|---|
+| [**Landpad**](https://github.com/carlos-landerdahl/landpad) | Histórico da área de transferência e captura de tela para Windows, em Rust. ~8 MB de memória, histórico abrindo em ~12 ms, recorte com anotação, conta-gotas e OCR. Tudo local: fixados cifrados com DPAPI, nada sai do computador. |
 | [**Swiss Army Knife**](https://github.com/Carlos-Landerdahl/Swiss-Army-Knife) | Coleção crescente de scripts para reconhecimento, enumeração, força bruta e mais. |
 
 ----
